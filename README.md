@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hi there, I'm Front-end Developer who focuses on writing clean, elegant, and efficient code. I love to spend time designing responsive Web Apps, Mobile Apps and fixing little details. My interests are MERN stack development, A.I, and Data Science. Proficient in Web development using the latest technologies like Reactjs, HTML5, CSS3, CSS Frameworks (Bootstrap, Tailwind CSS, etc), and different tools like Git, Github, VSCode, Vercel, and many more I am very familiar with the technologies like WordPress, Figma, and Adobe Illustrator.Hi there, I'm Front-end Developer who focuses on writing clean, elegant, and efficient code. I love to spend time designing responsive Web Apps, Mobile Apps and fixing little details. My interests are MERN stack development, A.I, and Data Science. Proficient in Web development using the latest technologies like Reactjs, HTML5, CSS3, CSS Frameworks (Bootstrap, Tailwind CSS, etc), and different tools like Git, Github, VSCode, Vercel, and many more I am very familiar with the technologies like WordPress, Figma, and Adobe Illustrator. Experience
+Innovative and scientifically rigorous recent graduate with a significant Front-end development internship experience. With a team-oriented attitude, I focuses on writing clean, elegant, and efficient code. Interested in the Full stack development, Data Science, ML and AI.
+
+Proficient in Web development using the latest technologies like HTML5, CSS3, JS, Bootstrap, and Reactjs. Very familiar with the technologies like Python, Data Science, ML and AI. I am seeking a challenging career with a progressive organization that provides an opportunity to capitalize on my Technical skills.
 
 * 🌍  I'm based in Rawalpindi
 * 🖥️  See my portfolio at [My Portfolio](http://farhan-portfolio.vercel.app)
 * ✉️  You can contact me at [farhanmasoodkhan2@gmail.com](mailto:farhanmasoodkhan2@gmail.com)
-* 🧠  I'm learning React | React Native
+* 🧠  I'm learning Python | Data Science
 
 <a href="https://www.github.com/FarhanMasoodKhan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FarhanMasoodKhan?logo=github&style=for-the-badge&color=ffffff&labelColor=831843" /></a>

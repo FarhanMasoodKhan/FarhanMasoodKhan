@@ -4,17 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science - ML - AI
 ----------------------
 
-With a Bachelor's degree in Computer Science and a passion for data science and machine learning, I am an aspiring data scientist with a strong foundation in statistical analysis, data visualization, and programming. I am skilled in working with programming languages such as Python and SQL, and I am excited to apply my knowledge to real-world data science projects.
-
-𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸: 
-𝗣𝘆𝘁𝗵𝗼𝗻 🐍 • 𝗦𝗤𝗟 💉• 𝗣𝗼𝘄𝗲𝗿𝗕𝗜/𝗧𝗮𝗯𝗹𝗲𝗮𝘂 📊 • 𝗠𝗦 𝗘𝘅𝗰𝗲𝗹 🗓️ •𝗠𝗮𝘁𝗵𝘀 & 𝗦𝘁𝗮𝘁𝘀 📚 • 𝗠𝗟 & 𝗔𝗜 🤖 • 𝗦𝘁𝗼𝗿𝘆 𝘁𝗲𝗹𝗹𝗶𝗻𝗴 📝
-
-In my previous work experience, I have gained experience in the 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 field by working on projects such as developing react responsive websites, designing UX/UI for the mobile application using Figma.
-
- • 𝑷𝒂𝒓𝒕-𝑻𝒊𝒎𝒆: 
-𝘈𝘐-𝘈𝘳𝘵𝘪𝘴𝘵 🎨 | 𝘜𝘐 𝘋𝘦𝘴𝘪𝘨𝘯𝘦𝘳 🕸️ | 𝘎𝘳𝘢𝘱𝘩𝘪𝘤 𝘋𝘦𝘴𝘪𝘨𝘯𝘦𝘳 ⚡
-
-I am excited to continue building my skills and experience as a 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 and am committed to continuously learning and staying up-to-date with new technologies and trends in the field.
+With a Bachelor's degree in Computer Science and a passion for data science and machine learning, I am an aspiring data scientist with a strong foundation in statistical analysis, data visualization, and programming. I am skilled in working with programming languages such as Python and SQL, and I am excited to continue building my skills and experience as a 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿.
 
 * 🌍  I'm based in Islamabad, PK
 * 🖥️  See my portfolio at [Link 🌐](http://farhanmasood.vercel.app)

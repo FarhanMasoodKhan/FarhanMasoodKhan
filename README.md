@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farhan Masood Khan
 ==========================================================================================================================================
 
-Data Science - ML - AI
+UI/UX Designer - Front-end Developer
 ----------------------
 
-With a Bachelor's degree in Computer Science and a passion for data science and machine learning, I am an aspiring data scientist with a strong foundation in statistical analysis, data visualization, and programming. I am skilled in working with programming languages such as Python and SQL, and I am excited to continue building my skills and experience as a 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 - 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿.
+Highly motivated graduate with 6 months of experience in front-end development and Figma UI/UX design. Skilled in HTML, CSS, JavaScript, React.js, and Figma, I am passionate about pursuing a career in this field. With a strong eye for detail and a desire to stay updated with the latest trends, I am eager to contribute my creativity, communication skills, and technical knowledge to a dynamic organization.
 
 * 🌍  I'm based in Islamabad, PK
 * 🖥️  See my portfolio at [Link 🌐](http://farhanmasood.vercel.app)

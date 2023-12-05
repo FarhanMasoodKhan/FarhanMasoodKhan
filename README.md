@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farhan Masood Khan
 ==========================================================================================================================================
 
-UI UX Designer - Android Developer
+UI UX Designer - WebFlow | Frontend
 -----------------------------------
 
 Dedicated UI/UX Designer with over a year of experience crafting exceptional user experiences for mobile and web applications. Proficient in Figma, Adobe XD, and Adobe Illustrator, I excel in creating visually captivating interfaces while conducting meticulous UX research and prototyping.

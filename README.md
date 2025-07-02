@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UI UX Designer - WebFlow | Frontend
 -----------------------------------
 
-Dedicated UI/UX Designer with over a year of experience crafting exceptional user experiences for mobile and web applications. Proficient in Figma, Adobe XD, and Adobe Illustrator, I excel in creating visually captivating interfaces while conducting meticulous UX research and prototyping.
+Dedicated UI/UX Designer with two years of experience crafting exceptional user experiences for mobile and web applications. Proficient in Figma, Adobe XD, and Adobe Illustrator, I excel in creating visually captivating interfaces while conducting meticulous UX research and prototyping.
 
 * 🌍  I'm based in Islamabad, PK
-* 🖥️  See my portfolio at [Link](http://farhanmasood.vercel.app/)
+* 🖥️  See my portfolio at [Link](https://appified-solutions.vercel.app/)
 * ✉️  You can contact me at [farhanmasoodkhan2@gmail.com](mailto:farhanmasoodkhan2@gmail.com)
 * 🧠  I'm learning Mobile App Development
 
